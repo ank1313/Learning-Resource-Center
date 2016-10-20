@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">MinorProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="last_name">Lastname</string>
+    <string name="enrollment">Enrollment Number</string>
+    <string name="first_name">Firstname</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="pincode">Pincode</string>
+    <string name="branch">Branch</string>
+    <string name="phone">Phone</string>
+    <string name="date">Date(DD/MM/YYYY)</string>
+    <string name="loginbutton">LOGIN</string>
+    <string name="registerbutton">REGISTER</string>
+    <string name="registerlink">Not a member? Sign up now.</string>
+    <string name="loginlink">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+
+    <string-array name="branches">
+        <item>Branch</item>
+        <item>CSE</item>
+        <item>ECE</item>
+        <item>Biotech</item>
+    </string-array>
+
+    <string-array name="semesters">
+        <item>Semester</item>
+        <item>Ist</item>
+        <item>2nd</item>
+        <item>3rd</item>
+        <item>4th</item>
+        <item>5th</item>
+        <item>6th</item>
+        <item>7th</item>
+        <item>8th</item>
+    </string-array>
+
+    <string-array name="gender">
+        <item>Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+    <string name="title_activity_donate">Donate</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_activity_navdrawer">activity_navdrawer</string>
+
+</resources>
