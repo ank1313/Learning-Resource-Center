@@ -1,2 +1,2 @@
-Learning Resource Center: A Library application developed using andriod.
+Learning Resource Center: A Library management application developed using andriod.
 
